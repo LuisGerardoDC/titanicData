@@ -7,21 +7,24 @@ This repository has the code to clean, proces and show information about Titanic
 
 ### 2.info of DataFrame
 basic data of the data frame.
-    
-    
   - a) number of rows
+  
   ![DataFrame](https://github.com/LuisGerardoDC/titanicData/blob/master/assets/img/number_rows.png)
       
   - b) columns
+  
   ![columns](https://github.com/LuisGerardoDC/titanicData/blob/master/assets/img/columns_names.png)
       
   - c) types
+  
   ![data types](https://github.com/LuisGerardoDC/titanicData/blob/master/assets/img/date_types.png)
       
   - d) 10 first rows 
+  
   ![firts rows](https://github.com/LuisGerardoDC/titanicData/blob/master/assets/img/10_first_rows.png)
       
   - e) 10 last rows
+  
   ![last rows](https://github.com/LuisGerardoDC/titanicData/blob/master/assets/img/10_last_rows.png)
 
 ### 3.data of passenger 148.
