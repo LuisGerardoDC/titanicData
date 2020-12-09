@@ -15,17 +15,17 @@ This repository has the code to clean, proces and show information about Titanic
 
 ### 4.even rows.
 
-###
-### 5.Mostrar por pantalla los nombres de las personas que iban en primera clase ordenadas alfabéticamente.
+### 5.Sorted Names of passengers in first class
 
-### 6.Mostrar por pantalla el porcentaje de personas que sobrevivieron y murieron.
+### 6.Percentage of survivors and deceased
 
-### 7.Mostrar por pantalla el porcentaje de personas que sobrevivieron en cada clase.
+### 7.Percentage of survivors and deceased by class.
 
-### 8.Eliminar del DataFrame los pasajeros con edad desconocida.
+### 8.Removed passengers with unkwon age.
 
-### 9.Mostrar por pantalla la edad media de las mujeres que viajaban en cada clase.
+### 9.Women´s mean age by class .
 
-### 10.Añadir una nueva columna booleana para ver si el pasajero era menor de edad o no.
+### 10.New column for is_adult.
 
-### 11.Mostrar por pantalla el porcentaje de menores y mayores de edad que sobrevivieron en cada clase.
+### 11.Percentage of survivors under-age and adults by class 
+
