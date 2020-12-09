@@ -5,8 +5,12 @@ This repository has the code to clean, proces and show information about Titanic
 ### 1.DataFrame with the data.
 ![DataFrame](https://github.com/LuisGerardoDC/titanicData/blob/master/assets/img/create-DF.png)
 
-### 2.Mostrar por pantalla las dimensiones del DataFrame
+### 2.info of DataFrame
 
+
+    basic data of the data frame.
+    
+    
   - a) number of rows
       ![DataFrame](https://github.com/LuisGerardoDC/titanicData/blob/master/assets/img/number_rows.png)
       
