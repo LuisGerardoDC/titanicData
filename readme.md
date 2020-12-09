@@ -1,3 +1,6 @@
+## Notion
+https://www.notion.so/Titanic-591f5ca2a6d244739fc76e135ffbeb24
+
 ## Titanic data analysis
 This repository has the code to clean, proces and show information about Titanic´s data set
 
